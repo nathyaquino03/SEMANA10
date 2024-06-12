@@ -1,0 +1,10 @@
+div{
+    background-color: black;
+    text-align: justify;
+    color:rgb(16, 135, 238) ;
+    width: 400px;
+    margin: 20PX auto;
+    padding:10px;
+    font-family:  Tahoma;
+    border: 2px solid darkorange;
+}
